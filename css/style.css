@@ -1,0 +1,22 @@
+body{
+    font: 20px, Arial, sans-serif;
+}
+.navbar{
+    background-color: #64b7d8;
+}
+#servicos{
+    background-color: #5f7b87;
+    color: white;
+}
+#clientes{
+    background-color: #a4cfe1;
+    color: white;
+}
+#parceiros{
+    background-color: #5a8292;
+    color: white;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
